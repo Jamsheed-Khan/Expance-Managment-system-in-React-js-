@@ -1,0 +1,26 @@
+.table td,th{
+    border: 1px solid black;
+}
+.dataSection{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+table td{
+}
+.inputfield{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.inputfield input{
+    margin: 10px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
